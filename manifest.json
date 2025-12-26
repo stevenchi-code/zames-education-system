@@ -1,0 +1,22 @@
+{
+  "name": "ZAMES - Zambia Education System",
+  "short_name": "ZAMES",
+  "description": "Zambia Advanced Management Education System - Connecting all schools in Zambia",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2E7D32",
+  "theme_color": "#2E7D32",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/@mdi/svg@7.2.96/svg/school-outline.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "en",
+  "dir": "ltr",
+  "prefer_related_applications": false
+}
